@@ -1,0 +1,94 @@
+html, body {
+	background-color: rgb(240, 240, 247);
+	text-align: center;
+	font-family: Segoe ui light;
+	max-width: 100%;
+	margin:0;
+}
+
+header	{
+	background-color: rgba(60, 105, 170, 1);
+	height: 55px;
+	padding-top: 17px;
+	text-align: justify;
+	padding-left: 280px;
+	margin-bottom: 60px;
+}
+
+.facebook	{
+	color: white;
+	font-weight: 800;
+	font-size: 32px;
+}
+
+.sign	{
+	background-color: rgba(0, 170, 0, 1);
+	font-size: 15px;
+	font-weight: bold;
+	padding: 4px;
+}
+
+.sign a{
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+.form_container	{
+	background-color: white;
+	margin: auto;
+	max-width: 470px;
+	min-height: 280px;
+	box-shadow: 1px 1px 2px rgb(218, 230, 241);
+	padding:13px 15px 0 15px; 
+}
+
+.form_container p {
+	font-weight: bold;
+}
+
+.form_container input {
+	width: 60%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.login_info, .login {
+	border: 1px solid rgb(240, 240, 247);
+	box-shadow: 0 0 3px rgb(240, 240, 247);
+}
+
+.login {
+	background-color: rgba(60, 105, 170, 1);
+	color: white;
+	height: 40px;
+}
+
+.recover	{
+	border: 1px solid grey;
+	box-shadow: 1px 1px 9px rgb(240, 240, 247);
+	background-color: rgb(240, 240, 247);
+}
+
+footer {
+	background-color: white;
+	margin-top: 60px;
+	padding: 55px 0 10px 100px;
+}
+
+.footer_content	{
+	text-align: justify;
+	max-width: 70%;
+	word-spacing: 10px;
+	margin: auto;
+}
+
+.footer_content a:link  {
+	color: color: rgba(61, 105, 186, 1);
+}
+
+.footer_content a:visited  {
+	color: rgba(61, 105, 186, 1);
+}
