@@ -1,0 +1,103 @@
+html,body	{
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-seriff;
+	font-size: 100%;
+	padding: 5px;
+	max-width: 100%;
+}
+
+h1	{
+	font-family: centaur;
+	font-size: 300%; 
+}
+
+#title	{
+	font-size: 200%;
+	letter-spacing: 2px;
+	font-weight: lighter;
+}
+
+#sign {
+	font-size:120%; 
+	letter-spacing: 1px;
+	font-weight: lighter;
+}
+
+#G,#g	{
+	color: DodgerBlue;
+	letter-spacing: -8px;
+}
+
+#o1,#e	{
+	color: rgba(244,0,0,1.0);
+	letter-spacing: -8px;
+}
+
+#o2	{
+	color: rgb(255, 204, 96);
+	letter-spacing: -8px;
+}
+
+#l {
+	color: rgb(60, 179, 113);
+	letter-spacing: -8px;
+}
+
+.template	{
+	background-color: rgb(240,240,240);
+	margin: auto;
+	padding: 40px 20px 40px 20px;
+	max-width: 370px;
+	text-align: center;
+	border:2px outset;
+	box-shadow:0 2px 15px grey; 
+}
+
+.icon	{
+	background-color: grey;
+	opacity: .2;
+	border-radius: 360%;
+	max-width: 100px;
+	min-height: 100px;
+	margin: auto;
+}
+.icon img	{
+	width: 20px;
+	height: 50px;
+}
+
+input	{
+	border:1px inset rgb(240,240,240);
+	padding: 10px;
+	width: 90%;
+}
+
+#email	{
+	margin-top: 30px;
+}
+
+#next	{
+	text-align: center;
+	color: white;
+	background-color: DodgerBlue;
+	margin-top: 10px;
+}
+
+#find {
+	text-align: right;
+}
+
+a:link {
+	text-decoration: none;
+	color: DodgerBlue;
+}
+
+a:visited {
+	color: DodgerBlue;
+}
+
+img	{
+	width: 2%;
+	height: auto;
+	margin-right: 5px;
+}
